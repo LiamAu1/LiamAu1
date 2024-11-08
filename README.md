@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+I am Liam Au and I am a student in robotics at Stuyvesant High School. 🤔
+I am interested in nature, technology, and outdoor activities. 🌱😄
 
 <!--
 **LiamAu1/LiamAu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
