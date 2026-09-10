@@ -1,5 +1,5 @@
 ## Hello!
-I am Liam Au and I am a student in robotics at Stuyvesant High School. 🤔
+I am Liam Au and I am a student at Stuyvesant High School. 🤔
 I am interested in nature, technology, and outdoor activities. 🌱😄
 
 <!--
